@@ -1,0 +1,2 @@
+# ProyectoQRPython
+proyecto QR Python 
